@@ -46,3 +46,9 @@ An AI-powered call assistant that talks to students in Tamil and English, collec
 
 ---
 <p align="center">⭐ Thanks for visiting!</p>
+
+
+<p align="center">
+  <img src="photo.jpg" width="150" style="border-radius:50%" />
+</p>
+
