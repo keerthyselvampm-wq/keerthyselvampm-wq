@@ -1,3 +1,4 @@
+<img src="IMG_1234.jpg" width="160" />
 <p align="center">
   <img src="photo.jpg" width="160" />
 </p>
