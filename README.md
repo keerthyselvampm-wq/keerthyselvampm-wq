@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="photo.jpg" width="160" />
+</p>
 <h1 align="center">Hi, I'm Kiruthika P 👋</h1>
 <p align="center">
   MBA (AI & Data Science) student at SRM University · Chennai, India<br>
@@ -18,6 +21,7 @@
 - 💼 AI intern at VDart, worked on AI Telecom and EyeInsights
 - 🏆 2nd prize in Corporate Maestro
 - 🤝 Event coordinator of Commune
+- UG coordinater
 - 🌱 Learning and building with AI, data, and full-stack tools
 
 ## 🛠️ Tech Stack
